@@ -6,4 +6,4 @@
 
 Также реализована работа с бэкендом
 
-APK Ссылка для скачивания: https://github.com/MuradMirea/TO-DO-App-For-Yandex_1/releases/tag/1.0
+APK Ссылка для скачивания: https://github.com/MuradMirea/TO-DO-App-For-Yandex/releases/tag/2.0
